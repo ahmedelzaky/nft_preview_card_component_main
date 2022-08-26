@@ -65,12 +65,13 @@ ul {
 }
 
 .container h3 {
-  margin: 20px 0;
+  margin: 25px 0;
   font-weight: 700;
 }
 
 .container p {
-  color: hsla(215, 34%, 59%, 0.822);
+  color: hsla(215, 34%, 59%, .8);
+  line-height: 1.6;
 }
 
 .box {
@@ -103,9 +104,11 @@ ul {
 }
 .end-box {
   text-align: start;
-  padding-top: 10px;
-  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 20px;
   font-weight: 300;
+  font-size: 16;
+  padding-left: 10px;
 }
 .end-box img {
   width: 30px;
