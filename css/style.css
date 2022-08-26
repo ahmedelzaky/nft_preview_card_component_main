@@ -112,6 +112,8 @@ ul {
   position: relative;
   top: 8px;
   left: -6px;
+  border: 1px solid white;
+  border-radius: 50%;
 }
 .end-box span {
   color: hsl(0, 0%, 100%);
